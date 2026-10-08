@@ -1,0 +1,5 @@
+* text=auto
+
+*.doc binary
+
+/README.md export-ignore
